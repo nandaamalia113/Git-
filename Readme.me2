@@ -1,0 +1,3 @@
+Version control adalah sistem yang mencatat semua perubahan kode pada project. Sistem ini penting agar Anda bisa melihat semua riwayat perubahan kode.
+
+Sedangkan, Git adalah sebuah distributed version control yang membuat riwayat perubahan kode bisa diakses oleh semua orang di dalam project. Bukan hanya pencipta kodenya saja seperti di version control biasa.
